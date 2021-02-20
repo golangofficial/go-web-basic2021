@@ -1,1 +1,1 @@
-#Pull fire from linux
+#add go part4 Pointers
